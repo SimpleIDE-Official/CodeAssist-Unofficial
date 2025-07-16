@@ -38,7 +38,7 @@ android {
 dependencies {
 
     implementation 'androidx.annotation:annotation:1.8.2'
-    compileOnly 'androidx.constraintlayout:constraintlayout:2.1.4'
+    compileOnly 'androidx.constraintlayout:constraintlayout:2.2.1'
     compileOnly project(path: ':proteus-core')
 
     testImplementation 'junit:junit:4.13.2'
