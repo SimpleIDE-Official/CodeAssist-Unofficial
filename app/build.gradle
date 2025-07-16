@@ -117,7 +117,7 @@ dependencies {
     implementation project(path: ':layout-preview')
     implementation project(path: ':kotlin-completion')
     
-    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.2.0-alpha01'
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.2.0-beta01'
     implementation project(path: ':dependency-resolver')
 
     implementation project(path: ':treeview')
